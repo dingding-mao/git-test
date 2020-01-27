@@ -17,4 +17,9 @@ public class FirstClass {
 
     }
 
+    public void demoTest(){
+
+        String str = "xxsss";
+    }
+
 }
